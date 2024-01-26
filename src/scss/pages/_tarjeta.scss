@@ -1,0 +1,92 @@
+.c-section--tarjeta {
+  outline: none;
+
+  .c-tarjeta {
+    padding: 2rem 0 4rem;
+    background: radial-gradient(39.59% 50% at 50% 50%, $white 47.4%, #f8f8f8 100%);
+
+    &__title {
+      font-size: 25px;
+      margin: 0 0 1rem;
+      font-weight: 700;
+    }
+
+    &__text {
+      font-size: 11px;
+      margin-bottom: 2rem;
+
+      img {
+        width: 25px;
+      }
+    }
+
+    &__figure {
+      width: 100%;
+      max-width: 650px;
+      margin: 0 auto 2rem;
+    }
+
+    &__figcaption {
+      // background: rgba($color: $black, $alpha: 0.5);
+      top: 17%;
+      left: 39%;
+      width: 26%;
+      height: 4%;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      color: $white;
+      font-size: 80%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    &__figcaption--bottom {
+      top: 21%;
+    }
+
+    &__subtitle {
+      font-size: $fs-16;
+    }
+
+    &__link {
+      font-size: $fs-16;
+      font-weight: 700;
+      text-decoration: underline;
+      display: block;
+      text-align: center;
+
+      &:hover,
+      &:active,
+      &:focus {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
+@include breakpoint(large) {
+  .c-section--tarjeta {
+    outline: none;
+
+    .c-tarjeta {
+      &__title {
+        font-size: 32px;
+      }
+
+      &__figcaption {
+        font-size: 100%;
+      }
+
+      &__text {
+        font-size: 14px;
+        margin-bottom: 2rem;
+
+        img {
+          width: 50px;
+        }
+      }
+    }
+  }
+}

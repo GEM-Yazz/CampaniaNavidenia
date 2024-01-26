@@ -1,0 +1,86 @@
+.c-button {
+  font-size: $fs-16;
+  padding: 0.7rem 1rem;
+  display: inline-block;
+
+  @include b-radious(5px);
+  @include transition(0.2s);
+
+  &--primary {
+    background-color: $primary-color;
+    color: $white;
+
+    &:hover,
+    &:focus {
+      background-color: $primary-alt;
+      color: $white;
+    }
+  }
+
+  &--white {
+    background-color: $white;
+    color: $primary-color;
+
+    &:hover,
+    &:focus {
+      color: $primary-color;
+    }
+  }
+}
+
+.c-play-btn {
+  &__top {
+    top: 0;
+    left: 0;
+    transition: all 0.3s;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    .c-play-btn__top {
+      opacity: 0;
+    }
+  }
+}
+
+.c-gold-btn {
+  background: #dac065;
+  color: $white;
+  padding: 1rem 1.5rem;
+  border-radius: 15px;
+  font-weight: 800;
+  box-shadow: inset -1px 2px 3px #f8e6a8, inset 0 -2px 3px 1px #c2a744;
+  font-size: $fs-18;
+  position: relative;
+
+  img {
+    width: 20px;
+    margin-left: 8px;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: -20px;
+    left: -35px;
+    width: calc(100% + 70px);
+    height: calc(100% + 40px);
+    // background: url(../images/gold-btn.png);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg%27%3e%3crect width='100%25' height='100%25' fill='none' rx='20' ry='20' stroke='%23EAC470FF' stroke-width='10' stroke-dasharray='2%2c 12' stroke-linecap='butt'/%3e%3c/svg%3e");
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.3s;
+    transform: scale(0.95);
+    opacity: 0.5;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    &::after {
+      transform: scale(1.15);
+    }
+  }
+}

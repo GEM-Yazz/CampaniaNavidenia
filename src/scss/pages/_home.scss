@@ -1,0 +1,54 @@
+.c-section--home {
+  outline: none;
+
+  .c-header {
+    padding: 1rem 0;
+
+    &__icon {
+      width: 115px;
+    }
+
+    .c-play-btn {
+      width: 100px;
+    }
+
+    .c-btn-fin {
+      .c-play-btn {
+        height: 30px;
+        width: auto;
+      }
+    }
+  }
+
+  .c-bar {
+    padding: 1rem;
+  }
+}
+
+@include breakpoint(large) {
+  .c-section--home {
+    outline: none;
+
+    .c-header {
+      padding: 1rem 0;
+
+      &__icon {
+        width: 115px;
+      }
+
+      .c-play-btn {
+        width: 100px;
+      }
+
+      .c-btn-fin {
+        .c-play-btn {
+          height: 38px;
+        }
+      }
+    }
+
+    .c-bar {
+      padding: 2rem;
+    }
+  }
+}

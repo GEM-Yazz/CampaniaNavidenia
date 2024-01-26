@@ -1,0 +1,90 @@
+::-moz-selection {
+  color: #fff;
+  background: $primary-color;
+}
+
+::selection {
+  color: #fff;
+  background: $primary-color;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Fancybox */
+body.compensate-for-scrollbar {
+  overflow-y: auto !important;
+}
+
+.fade {
+  &-enter-active,
+  &-leave-active {
+    transition: opacity 0.3s;
+  }
+
+  &-enter,
+  &-leave-to {
+    opacity: 0;
+  }
+}
+
+.v-lazy-image {
+  filter: blur(20px) grayscale(100%);
+  transition: filter 0.7s;
+
+  &-loaded {
+    filter: blur(0) grayscale(0);
+  }
+}
+
+.mobile {
+  display: block;
+}
+
+.desktop {
+  display: none;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.of-hidden {
+  overflow: hidden;
+}
+
+.audio {
+  position: absolute;
+  visibility: hidden;
+}
+
+.c-tri {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 7px solid $white;
+  right: 1.2rem;
+  top: 47%;
+  z-index: 5555;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+@include breakpoint(large) {
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: block;
+  }
+}

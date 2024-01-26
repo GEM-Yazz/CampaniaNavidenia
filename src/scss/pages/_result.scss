@@ -1,0 +1,246 @@
+.c-section--result {
+  outline: none;
+
+  .c-result {
+    background-color: $primary-color;
+    background-image: url(../images/bg-red-m.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 3rem 0;
+
+    &__confeti {
+      width: 100%;
+      left: 0;
+      top: 34%;
+    }
+
+    &__stars {
+      width: 88%;
+      margin-left: 6%;
+      top: 5%;
+    }
+
+    .c-left {
+      text-align: center;
+
+      &__title {
+        color: $secondary-color;
+        font-size: 35px;
+        font-weight: 800;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+      }
+
+      &__text {
+        color: $white;
+        font-size: $fs-21;
+        margin-bottom: 2rem;
+        padding: 0 1rem;
+      }
+
+      &__small {
+        font-size: $fs-14;
+        color: $white;
+
+        a {
+          color: $secondary-color;
+          text-decoration: underline;
+          font-weight: 800;
+        }
+      }
+    }
+
+    .c-center {
+      z-index: 55;
+
+      &__title {
+        font-size: 18px;
+        border: 3px solid $secondary-color;
+        color: $white;
+        padding: 0.5rem 1rem;
+        border-radius: 13px;
+        margin-bottom: 1rem;
+        text-align: center;
+        display: inline-block;
+        font-weight: 700;
+      }
+
+      &__figure {
+        margin-top: -2rem;
+      }
+
+      .c-btn-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+
+        .c-gold-btn {
+          img {
+            transform: scale(1.5) translate(-2px, 0);
+          }
+        }
+
+        .c-gold-btn:first-child {
+          margin-right: 1rem;
+        }
+      }
+
+      .c-gold-btn::after {
+        background: none;
+        display: none;
+      }
+
+      &__info {
+        margin-top: 2rem;
+        text-align: center;
+      }
+
+      &__info-title {
+        color: $secondary-color;
+        font-size: 35px;
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+
+      &__info-text {
+        font-size: $fs-16;
+        margin-bottom: 1rem;
+        padding: 0 2rem;
+        color: $white;
+      }
+
+      &__text {
+        color: $white;
+        font-size: $fs-18;
+        margin-bottom: 1rem;
+      }
+
+      &__small {
+        font-size: $fs-14;
+        color: $white;
+      }
+
+      &__cursor {
+        position: absolute;
+        right: 15%;
+        bottom: 25%;
+        width: 20%;
+      }
+    }
+  }
+
+  .c-right {
+    &__icon {
+      width: 20px;
+      margin-bottom: 1rem;
+    }
+
+    &__title {
+      color: $secondary-color;
+      font-size: $fs-21;
+      font-weight: 800;
+    }
+
+    &__list {
+      color: $white;
+      font-size: $fs-14;
+      padding-right: 1rem;
+    }
+  }
+
+  .c-modal {
+    &__scrool {
+      background: $primary-color;
+      color: $white;
+      border-radius: 17px;
+      height: auto;
+      padding: 3rem 2rem;
+    }
+
+    .c-gold-btn::after {
+      display: none;
+    }
+
+    .c-gold-btn {
+      display: inline-block;
+    }
+  }
+
+  .grid-x {
+    position: relative;
+    z-index: 55;
+  }
+}
+
+@include breakpoint(large) {
+  .c-section--result {
+    outline: none;
+
+    .c-result {
+      background-image: url(../images/bg-red.png);
+
+      &__confeti {
+        width: 80%;
+        left: 10%;
+        top: 54%;
+      }
+
+      .cell.c {
+        order: 2;
+        z-index: 55;
+      }
+
+      .cell.l {
+        order: 1;
+        z-index: 55;
+      }
+
+      .cell.r {
+        order: 3;
+        z-index: 55;
+      }
+
+      .c-left {
+        text-align: left;
+
+        &__text {
+          padding-left: 0;
+          font-size: 17px;
+        }
+      }
+
+      .c-center {
+        &__figure {
+          position: relative;
+          margin-top: -1rem;
+          margin-bottom: 2rem;
+
+          & > img {
+            transform: scale(1.1);
+          }
+        }
+
+        &__figcaption {
+          position: absolute;
+          width: 700px;
+          top: 15%;
+          left: calc(50% - 340px);
+        }
+
+        &__info-text {
+          padding: 0;
+        }
+
+        .c-gold-btn {
+          padding: 0.5rem 1.5rem;
+        }
+      }
+
+      .c-right {
+        padding-left: 3rem;
+      }
+    }
+  }
+}

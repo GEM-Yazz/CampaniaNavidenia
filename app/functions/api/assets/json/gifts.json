@@ -1,0 +1,2203 @@
+{
+  "p1": {
+    "name": "All in One PC 24V50N - CI5",
+    "image": "p1",
+    "link": "https://www.lg.com/pe/computacion/lg-24v50n-g-ci5#none",
+    "details": [
+      "Pantalla IPS",
+      "Windows 10 Home",
+      "Procesador Intel Core i5 10ma Generación",
+      "Disco duro de 1TB",
+      "Memoria RAM: 8GB exp 16 GB"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p2": {
+    "name": "LG GRAM 16Z90P",
+    "image": "p2",
+    "link": "https://www.lg.com/pe/computacion/lg-16z90p-g",
+    "details": [
+      "Peso ultraligero de 1,190 g",
+      "Pantalla IPS de 16” WQXGA 16:10 (2560 x 1600)",
+      "Certificación Militar",
+      "Procesador Intel® Evo™ Core™ i7 de 11va generación",
+      "Hasta 22 horas de duración de la batería (80 Wh)",
+      "Puerto Thunderbolt™ 4"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p3": {
+    "name": "MNT GAMER: 27GN750",
+    "image": "p3",
+    "link": "https://www.lg.com/pe/monitores/lg-27GN750-B",
+    "details": [
+      "27\" Full HD (1920x1080)",
+      "NVIDIA G-Sync® Compatible",
+      "AMD FreeSync™ Compatible",
+      "1ms (GTG) con 240 Hz",
+      "IPS con sRGB 99%",
+      "HDR10"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p4": {
+    "name": "TV Gigante QNED  86\"",
+    "image": "p4",
+    "link": "https://www.lg.com/pe/televisores/lg-75qned99spa ",
+    "details": [
+
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p5": {
+    "name": "TV Mediano OLED 55\" 55C1",
+    "image": "p5",
+    "link": "https://www.lg.com/pe/televisores/lg-oled55a1psa",
+    "details": [
+      "Panel OLED: Auto-Iluminación de Píxeles",
+      "4K Procesador Inteligente α7 generación 4",
+      "4K Cinema HDR con Dolby Vision IQ",
+      "Sonido Dolby Atmos",
+      "LG ThinQ AI: Inteligencia Artificial"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p6": {
+    "name": "Parlantes PL7",
+    "image": "p6",
+    "link": "https://www.lg.com/pe/equipos-de-sonido/lg-pl7 ",
+    "details": [
+      "30W de Sonido",
+      "Bajos de Doble Acción",
+      "Batería con duración de hasta 24 horas",
+      "Luces multicolor",
+      "Resistencia a salpicaduras de agua IPX5"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p7": {
+    "name": "LG TONE",
+    "image": "p7",
+    "link": "https://www.lg.com/pe/audifonos/lg-tone-fp9",
+    "details": [
+      "Plug and Wireless. Auxiliar de Audio, Soporte para ser transmisor Bluetooth.",
+      "Cancelación Activa de Ruido Mejorada. ",
+      "Auriculares con UVnano. Elimina el 99,9% de las bacterias.",
+      "Puntas de Silicona en Gel Hipoalergénico. ",
+      "Diseño Ergonómico. Ajuste cómodo y elegante que se adapta a la forma de tu oreja.",
+      "Sonido con Tecnología Meridian."
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p8": {
+    "name": "Lavadora WT13BSB",
+    "image": "p8",
+    "link": "https://www.lg.com/pe/lavadoras/lg-wt13bsb ",
+    "details": [
+      "Ahorro de Energía con Smart Inverter Control",
+      "Smart Motion (TurboDrum™ + Punch+3)",
+      "Cascada Lateral",
+      "Auto Pre Lavado",
+      "Diseño conveniente y seguro",
+      "Diagnóstico Inteligente"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p9": {
+    "name": "Refrigeradora GT29WPPK",
+    "image": "p9",
+    "link": "https://www.lg.com/pe/refrigeradoras/lg-gt29wppk ",
+    "details": [
+      "Compresor Smart Inverter: 10 años de garantía",
+      "Moist Balance Crisper™: Control de Humedad",
+      "Múltiple Flujo de aire: Enfriamiento rápido y uniforme para el conservador",
+      "Amplio Cajón de vegetales",
+      "Bandeja extraíble",
+      "Diagnóstico Inteligente"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p10": {
+    "name": "Horno microondas NeoChef 25 lt ",
+    "image": "p10",
+    "link": "https://www.lg.com/pe/microondas/lg-MS2536GIS",
+    "details": [
+      "EasyClean™: Elimina hasta un 99.99% de bacterias",
+      "Cocina y Descongela Uniformemente",
+      "Cocina Rápido",
+      "Magnetrón Smart Inverter con 10 años de garantía",
+      "Cocina saludable"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "score": 0
+  },
+  "p11": {
+    "name": "Cocina Easy Clean RSG314S",
+    "image": "p11",
+    "link": "https://www.lg.com/pe/cocinas/lg-RSG314S",
+    "details": [
+      "EasyClean™: Fácil limpieza solo con rociar agua",
+      "Gran capacidad",
+      "Fácil de encender",
+      "Bloqueo automático de gas",
+      "Cierre suave"
+    ],
+    "data" : [
+      {
+        "label": "player_target_relationship",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_age",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          },
+          {
+            "key": "a5",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_genre",
+        "data": [
+          {
+            "key": "a1",
+            "value": 1
+          },
+          {
+            "key": "a2",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "label": "player_target_behaviour3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity1",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 0
+          },
+          {
+            "key": "a3",
+            "value": 1
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity2",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "label": "player_target_activity3",
+        "data": [
+          {
+            "key": "a1",
+            "value": 0
+          },
+          {
+            "key": "a2",
+            "value": 1
+          },
+          {
+            "key": "a3",
+            "value": 0
+          },
+          {
+            "key": "a4",
+            "value": 0
+          }
+        ]
+      }
+    ],
+    "score": 0
+  }
+}

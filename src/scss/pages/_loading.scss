@@ -1,0 +1,41 @@
+.c-section--loading {
+  outline: none;
+
+  .c-loading {
+    min-height: 88vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(39.59% 50% at 50% 50%, #fff 47.4%, #f8f8f8 100%);
+
+    &__title {
+      width: 80%;
+      margin: 0 auto 3rem;
+      max-width: 460px;
+    }
+
+    &__gif {
+      width: 75%;
+      margin: 0 auto 2rem;
+      max-width: 460px;
+    }
+
+    &__text {
+      font-size: $fs-21;
+      text-align: center;
+      color: $black;
+    }
+  }
+}
+
+@include breakpoint(large) {
+  .c-section--loading {
+    outline: none;
+
+    .c-loading {
+      &__text {
+        font-size: $fs-25;
+      }
+    }
+  }
+}
